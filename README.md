@@ -1,5 +1,4 @@
 # Enhanced Regularized Clustering (ERC)
-The code in this toolbox implements "An Enhanced Regularized Clustering Method With Adaptive Spurious Connection Detection". 
 
 ### Quick Testing
 Directly run demo.
