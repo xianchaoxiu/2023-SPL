@@ -7,7 +7,7 @@ The code in this toolbox implements ["An Enhanced Regularized Clustering Method 
 Directly run demo.m for reproduction.
 
 ### Citation
-Please give credit to this paper if this code is useful and helpful for your research.
+Please give credits to this paper if this code is useful and helpful for your research.
 
      @article{chen2023enhanced,
       title     = {An Enhanced Regularized Clustering Method With Adaptive Spurious Connection Detection},
