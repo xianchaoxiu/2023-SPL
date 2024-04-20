@@ -1,5 +1,5 @@
 # ERC
-The code in this toolbox implements ["An Enhanced Regularized Clustering Method With Adaptive Spurious Connection Detection"](https://ieeexplore.ieee.org/abstract/document/10252040) by <i>H. Chen, L. Kong, W. Qu, X. Xiu<i>.
+The code in this toolbox implements ["An Enhanced Regularized Clustering Method With Adaptive Spurious Connection Detection"](https://ieeexplore.ieee.org/abstract/document/10252040) by <i>H. Chen, L. Kong, W. Qu, X. Xiu</i>.
 
 
 
